@@ -10,7 +10,7 @@ Cách đọc:  **Đô Trịnh**  (giọng Nam hay Bắc tùy bạn)
 1.  Lập trình ứng dụng Android, iOS.
 2.  Thiết kế website, lập trình website, blog cá nhân.
 3.  Nâng cấp website đang chạy (thêm mới chức năng hoặc sửa chức năng).
-4.  Dịch văn bản tiếng Nhật, tiếng Anh và ngược lại.
+4.  Kết nối các công ty Việt Nam với công ty Nhật khi có nhu cầu sản xuất phần cứng CNTT.
 5.  Bán theme WordPress có bản quyền do chính tôi tạo và trên themeforest.
 
 # Các cách giữ liên lạc
