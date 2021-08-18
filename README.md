@@ -21,3 +21,7 @@ Mong muốn được tư vấn hoặc thuê tôi bạn có thể liên hệ vớ
 -   Hoặc qua địa chỉ Email: [contact@dotrinh.com](mailto:contact@dotrinh.com)
 -   Hoặc qua mạng xã hội Facebook: **[https://fb.com/dotrinhofficial](https://fb.com/dotrinhofficial).**
 -   Hoặc qua kênh Youtube: **[dotrinhWORK](https://www.youtube.com/channel/UC7ozfyegIzC6rSLOELHWr7g?sub_confirmation=1)**
+
+# GitHub stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotrinhdev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast" />
