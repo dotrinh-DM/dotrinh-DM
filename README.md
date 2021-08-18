@@ -29,10 +29,10 @@ Mong muốn được tư vấn hoặc thuê tôi bạn có thể liên hệ vớ
 # GitHub stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotrinhdev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotrinhdev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast" />
+</p>
 
  <p align="center">
-    <br />
     <a href="https://dotrinh.com">
       <img src="https://img.shields.io/badge/Supported%20by-dotrinh%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
