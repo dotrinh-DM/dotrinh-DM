@@ -9,19 +9,21 @@
 
 Cách đọc:  **Đô Trịnh**  (giọng Nam hay Bắc tùy bạn)
 
-# **Tôi có thể làm gì?**
+# **Chúng tôi có thể làm gì?**
 
-1.  Lập trình ứng dụng Android, iOS.
-2.  Thiết kế website, lập trình website, blog cá nhân (từ dễ đến phức tạp)
-3.  Nâng cấp website đang chạy (thêm mới chức năng hoặc sửa chức năng).
-4.  Kết nối các công ty Việt Nam với công ty Nhật khi có nhu cầu sản xuất phần cứng CNTT.
-5.  Bán theme WordPress có bản quyền do chính tôi tạo và trên themeforest.
+1.  Quản lý các dự án phần mềm mà khách hàng cần.
+2.  Lập trình ứng dụng Android, iOS.
+4.  Thiết kế website, lập trình website, blog cá nhân (từ dễ đến phức tạp)
+5.  Nâng cấp website đang chạy (thêm mới chức năng hoặc sửa chức năng).
+6.  Kết nối các công ty Việt Nam với công ty Nhật khi có nhu cầu sản xuất phần cứng CNTT.
+7.  Bán theme WordPress có bản quyền do chính tôi tạo và trên themeforest.
 
-# Các cách giữ liên lạc
+# Các cách giữ liên lạc với chúng tôi
 
 Mong muốn được tư vấn hoặc thuê tôi bạn có thể liên hệ với tôi qua:
 
--   Tìm kiếm trên [Google.com.vn](https://www.google.com.vn/) với từ khóa:  **dotrinh**
+-   Tìm kiếm trên [Google.com.vn](https://www.google.com.vn/) với từ khóa:  **dotrinh** hoặc **thiet ke top 1**
+-   Website chính thức: [dotrinh.com](https://dotrinh.com)
 -   Hoặc qua địa chỉ Email: [contact@dotrinh.com](mailto:contact@dotrinh.com)
 -   Hoặc qua mạng xã hội Facebook: **[https://fb.com/dotrinhofficial](https://fb.com/dotrinhofficial).**
 -   Hoặc qua kênh Youtube: **[dotrinhWORK](https://www.youtube.com/channel/UC7ozfyegIzC6rSLOELHWr7g?sub_confirmation=1)**
