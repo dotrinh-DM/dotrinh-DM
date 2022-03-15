@@ -11,12 +11,21 @@ Cách đọc:  **Đô Trịnh**  (giọng Nam hay Bắc tùy bạn)
 
 # **Chúng tôi có thể làm gì?**
 
-1.  Quản lý các dự án phần mềm mà khách hàng cần.
+1.  Quản lý các dự án phần mềm mà khách hàng đang outsource bên ngoài.
 2.  Lập trình ứng dụng Android, iOS.
 4.  Thiết kế website, lập trình website, blog cá nhân (từ dễ đến phức tạp)
 5.  Nâng cấp website đang chạy (thêm mới chức năng hoặc sửa chức năng).
 6.  Kết nối các công ty Việt Nam với công ty Nhật khi có nhu cầu sản xuất phần cứng CNTT.
-7.  Bán theme WordPress có bản quyền do chính tôi tạo và trên themeforest.
+7.  Phân phối thiết bị công nghệ thông tin: iPhone, iPad, điện thoại Android,...
+
+# **Chứng chỉ tôi đạt được về quản lý**
+<p align="center">
+ <img width="400px" src="https://dotrinh.com/wp-content/uploads/2022/03/chung-chi-quan-li-Google-1.jpg" align="center" alt="dotrinh" />
+ <p align="center">
+  Project Management: 
+  https://coursera.org/share/4dbd975f3699162e775406f973cf3f6b
+ </p>
+</p>
 
 # Các cách giữ liên lạc với chúng tôi
 
