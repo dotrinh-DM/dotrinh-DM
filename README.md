@@ -12,11 +12,11 @@ Cách đọc:  **Đô Trịnh**  (giọng Nam hay Bắc tùy bạn)
 # **Chúng tôi có thể làm gì?**
 
 1.  Quản lý các dự án phần mềm mà khách hàng đang outsource bên ngoài.
-2.  Lập trình ứng dụng Android, iOS.
+2.  Thiết kế và lập trình ứng dụng Android, iOS.
 4.  Thiết kế website, lập trình website, blog cá nhân (từ dễ đến phức tạp)
 5.  Nâng cấp website đang chạy (thêm mới chức năng hoặc sửa chức năng).
 6.  Kết nối các công ty Việt Nam với công ty Nhật khi có nhu cầu sản xuất phần cứng CNTT.
-7.  Phân phối thiết bị công nghệ thông tin: iPhone, iPad, điện thoại Android,...
+7.  Phân phối thiết bị công nghệ thông tin: iPhone, iPad, Macbook, điện thoại Android,...
 
 # **Chứng chỉ tôi đạt được về quản lý**
 <p align="center">
