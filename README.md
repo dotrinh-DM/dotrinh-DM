@@ -40,7 +40,7 @@ Mong muốn được tư vấn hoặc thuê tôi bạn có thể liên hệ vớ
 # GitHub stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotrinhdev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotrinh-PM&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast" />
 </p>
 
  <p align="center">
