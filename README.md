@@ -17,8 +17,12 @@ Cách đọc:  **Đô Trịnh**  (giọng Nam hay Bắc tùy bạn)
 5.  Nâng cấp website đang chạy (thêm mới chức năng hoặc sửa chức năng).
 6.  Kết nối các công ty Việt Nam với công ty Nhật khi có nhu cầu sản xuất phần cứng CNTT.
 7.  Phân phối thiết bị công nghệ thông tin: iPhone, iPad, Macbook, điện thoại Android,...
+8.  Giới thiệu nhân sự chất lượng cao trong ngành CNTT cho các công ty lớn như Rakuten, Line, Paypay...
 
 # **Chứng chỉ tôi đạt được về quản lý**
+<div align="center">
+  <p style="text-align: center;">(đang học liên tục, học không ngừng nghỉ)</p>
+</div>
 <p align="center">
  <img width="400px" src="https://dotrinh.com/wp-content/uploads/2022/03/chung-chi-quan-li-Google-1.jpg" align="center" alt="dotrinh" />
  <p align="center">
