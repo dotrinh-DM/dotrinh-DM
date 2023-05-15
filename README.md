@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://dotrinh.com/wp-content/uploads/2020/04/dotrinh-new-370x370.png" align="center" alt="GitHub Readme Stats" />
+<!--  <img width="100px" src="https://dotrinh.com/wp-content/uploads/2020/04/dotrinh-new-370x370.png" align="center" alt="GitHub Readme Stats" /> -->
  <h2 align="center">Welcome to dotrinh's Github</h2>
 </p>
 
@@ -12,12 +12,12 @@ Cách đọc:  **Đô Trịnh**  (giọng Nam hay Bắc tùy bạn)
 # **Chúng tôi có thể làm gì?**
 
 1.  Quản lý các dự án phần mềm mà khách hàng đang outsource bên ngoài.
-2.  Thiết kế và lập trình ứng dụng Android, iOS.
+2.  Thiết kế từ đầu và lập trình ứng dụng Android, iOS.
 4.  Thiết kế website, lập trình website, blog cá nhân (từ dễ đến phức tạp)
-5.  Nâng cấp website đang chạy (thêm mới chức năng hoặc sửa chức năng).
+5.  Nâng cấp website đang chạy (thêm mới chức năng hoặc sửa chức năng cho dù hệ thống hiện tại có phức tạp).
 6.  Kết nối các công ty Việt Nam với công ty Nhật khi có nhu cầu sản xuất phần cứng CNTT.
-7.  Phân phối thiết bị công nghệ thông tin: iPhone, iPad, Macbook, điện thoại Android,...
-8.  Giới thiệu nhân sự chất lượng cao trong ngành CNTT cho các công ty lớn như Rakuten, Line, Paypay...
+7.  Phân phối thiết bị công nghệ thông tin: iPhone, iPad, Macbook, điện thoại Android,... truy cập: https://iphone81.top
+8.  Giới thiệu nhân sự chất lượng cao trong ngành CNTT cho các công ty Việt hoặc thuần Nhật.
 
 # **Chứng chỉ tôi đạt được về quản lý**
 <div align="center">
@@ -33,7 +33,7 @@ Cách đọc:  **Đô Trịnh**  (giọng Nam hay Bắc tùy bạn)
 
 # Các cách giữ liên lạc với chúng tôi
 
-Mong muốn được tư vấn hoặc thuê tôi bạn có thể liên hệ với tôi qua:
+Mong muốn được tư vấn hoặc thuê chúng tôi khách hàng có thể liên hệ qua:
 
 -   Tìm kiếm trên [Google.com.vn](https://www.google.com.vn/) với từ khóa:  **dotrinh** hoặc **thiet ke top 1**
 -   Website chính thức: [dotrinh.com](https://dotrinh.com)
