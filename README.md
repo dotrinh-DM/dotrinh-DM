@@ -1,3 +1,4 @@
+
 <p align="center">
 <!--  <img width="100px" src="https://dotrinh.com/wp-content/uploads/2020/04/dotrinh-new-370x370.png" align="center" alt="GitHub Readme Stats" /> -->
  <h2 align="center">Welcome to dotrinh's Github</h2>
@@ -12,7 +13,8 @@ Cách đọc:  **Đô Trịnh**  (giọng Nam hay Bắc tùy bạn)
 # **Chúng tôi có thể làm gì?**
 
 1.  Quản lý các dự án phần mềm mà khách hàng đang outsource bên ngoài.
-2.  Thiết kế từ đầu và lập trình ứng dụng Android, iOS.
+2.  Tư vấn, giám sát các dự án công nghệ thông tin phức tạp.
+3.  Thiết kế từ đầu và lập trình ứng dụng Android, iOS.
 4.  Thiết kế website, lập trình website, blog cá nhân (từ dễ đến phức tạp)
 5.  Nâng cấp website đang chạy (thêm mới chức năng hoặc sửa chức năng cho dù hệ thống hiện tại có phức tạp).
 6.  Kết nối các công ty Việt Nam với công ty Nhật khi có nhu cầu sản xuất phần cứng CNTT.
