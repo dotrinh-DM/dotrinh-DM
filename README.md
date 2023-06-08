@@ -1,7 +1,22 @@
+<p align="center">
+ <h2 align="center">Welcome to dotrinh's Github</h2>
+</p>
 
 <p align="center">
-<!--  <img width="100px" src="https://dotrinh.com/wp-content/uploads/2020/04/dotrinh-new-370x370.png" align="center" alt="GitHub Readme Stats" /> -->
- <h2 align="center">Welcome to dotrinh's Github</h2>
+<a href="https://fb.com/dotrinhcom" target="_blank">
+  <img height="100" src="https://dotrinh.com/wp-content/uploads/2021/12/facebook-dotrinh.png"/>
+</a>
+<a href="https://dotrinh.com/stackoverflow" target="_blank">
+<!--  small -->
+  <img height="110" src="https://dotrinh.com/wp-content/uploads/2021/12/stackoverflow-dotrinh.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dotr/" target="_blank">
+  <img height="100" src="https://dotrinh.com/wp-content/uploads/2021/12/logo-dotrinh.png"/>
+</a>
+ <a href="https://dotrinh.com/github" target="_blank" class="shortlink shortlink-14" rel="">
+  <img height="100" src="https://dotrinh.com/wp-content/uploads/2021/12/github-dotrinh.png"/>
+</a>
 </p>
 
 # **dotrinh có ý nghĩa gì?**
