@@ -58,14 +58,3 @@ Mong muốn được tư vấn hoặc thuê chúng tôi khách hàng có thể l
 -   Hoặc qua mạng xã hội Facebook: **[https://fb.com/dotrinhofficial](https://fb.com/dotrinhofficial).**
 -   Hoặc qua kênh Youtube: **[dotrinhWORK](https://www.youtube.com/channel/UC7ozfyegIzC6rSLOELHWr7g?sub_confirmation=1)**
 
-# GitHub stats
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotrinh-PM&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast" />
-</p>
-
- <p align="center">
-    <a href="https://dotrinh.com">
-      <img src="https://img.shields.io/badge/Supported%20by-dotrinh%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-  </p>
