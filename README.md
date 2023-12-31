@@ -43,8 +43,22 @@ Cách đọc:  **Đô Trịnh**  (giọng Nam hay Bắc tùy bạn)
 <p align="center">
  <img width="400px" src="https://dotrinh.com/wp-content/uploads/2022/03/chung-chi-quan-li-Google-1.jpg" align="center" alt="dotrinh" />
  <p align="center">
-  Project Management: 
-  https://coursera.org/share/4dbd975f3699162e775406f973cf3f6b
+  Foundations of Project Management:
+
+   <div align="center">
+   <p style="text-align: center;">https://coursera.org/share/4dbd975f3699162e775406f973cf3f6b</p>
+  </div>
+ </p>
+</p>
+
+<p align="center">
+ <img width="400px" src="https://dotrinh.com/wp-content/uploads/2023/12/dotrinh.com-dotrinh-coursera-hyjwurnq86hj.jpg" align="center" alt="dotrinh" />
+ <p align="center">
+  Project Initiation: Starting a Successful Project:
+  
+  <div align="center">
+   <p style="text-align: center;">https://coursera.org/share/8fcbaf85f4d5c7cafd2ddf17e0fda795</p>
+  </div>
  </p>
 </p>
 
