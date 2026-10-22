@@ -1,74 +1,27 @@
-<p align="center">
- <h2 align="center">Welcome to dotrinh's Github</h2>
-</p>
+# Do Trinh · dotrinh
 
-<p align="center">
-<a href="https://fb.com/dotrinhcom" target="_blank">
-  <img height="100" src="https://dotrinh.com/wp-content/uploads/2021/12/facebook-dotrinh.png"/>
-</a>
-<a href="https://dotrinh.com/stackoverflow" target="_blank">
-<!--  small -->
-  <img height="110" src="https://dotrinh.com/wp-content/uploads/2021/12/stackoverflow-dotrinh.png"/>
-</a>
+**Technology leadership · Vietnam–Japan collaboration · Software, mobile & IoT**
 
-<a href="https://www.linkedin.com/in/dotr/" target="_blank">
-  <img height="100" src="https://dotrinh.com/wp-content/uploads/2021/12/logo-dotrinh.png"/>
-</a>
- <a href="https://dotrinh.com/github" target="_blank" class="shortlink shortlink-14" rel="">
-  <img height="100" src="https://dotrinh.com/wp-content/uploads/2021/12/github-dotrinh.png"/>
-</a>
-</p>
+I connect technology strategy, hands-on engineering, and business development to help teams in Vietnam and Japan turn ideas into useful products. My work spans software delivery, mobile applications, and connected devices, with a growing focus on AI-native solutions.
 
-# **dotrinh có ý nghĩa gì?**
+## Where I contribute
 
-[**dotrinh**](https://dotrinh.com/)  chỉ đơn giản là 1 danh từ mà tôi muốn mọi người biết đến giống như CR7, M10, Sơn Tùng M-TP..v.v…  [**dotrinh**](https://dotrinh.com/)  là thương hiệu cá nhân của tôi.
+- **Technology leadership:** Connect business goals with technical decisions, delivery priorities, and sustainable engineering practices.
+- **Vietnam–Japan collaboration:** Bridge requirements, communication, and working practices between customers, partners, and engineering teams.
+- **Software, mobile & IoT:** Design and develop software and Android/iOS applications, including Bluetooth-connected experiences that bring devices and apps together.
+- **Business development:** Explore opportunities, clarify product needs, and connect the right technical capabilities and partners.
+- **Mentoring:** Help engineers strengthen problem-solving, ownership, and communication across technical and business contexts.
 
-Cách đọc:  **Đô Trịnh**  (giọng Nam hay Bắc tùy bạn)
+## Current focus
 
-# **Chúng tôi có thể làm gì?**
+I am exploring AI-native products and workflows where AI is part of the core experience: voice and language tools, workflow automation, and practical development tooling. My focus is on useful outcomes, clear limitations, and validation in real working conditions.
 
-1.  Quản lý các dự án phần mềm mà khách hàng đang outsource bên ngoài.
-2.  Tư vấn, giám sát các dự án công nghệ thông tin phức tạp.
-3.  Thiết kế từ đầu và lập trình ứng dụng Android, iOS.
-4.  Thiết kế website, lập trình website, blog cá nhân (từ dễ đến phức tạp)
-5.  Nâng cấp website đang chạy (thêm mới chức năng hoặc sửa chức năng cho dù hệ thống hiện tại có phức tạp).
-6.  Kết nối các công ty Việt Nam với công ty Nhật khi có nhu cầu sản xuất phần cứng CNTT.
-7.  Phân phối thiết bị công nghệ thông tin: iPhone, iPad, Macbook, điện thoại Android,... truy cập: https://iphone81.top
-8.  Giới thiệu nhân sự chất lượng cao trong ngành CNTT cho các công ty Việt hoặc thuần Nhật.
+I value clear communication, thoughtful technical decisions, and long-term relationships. I enjoy working with people who take responsibility for both the product and the way it is built.
 
-# **Chứng chỉ tôi đạt được về quản lý**
-<div align="center">
-  <p style="text-align: center;">(đang học liên tục, học không ngừng nghỉ)</p>
-</div>
-<p align="center">
- <img width="400px" src="https://dotrinh.com/wp-content/uploads/2022/03/chung-chi-quan-li-Google-1.jpg" align="center" alt="dotrinh" />
- <p align="center">
-  Foundations of Project Management:
+## Connect
 
-   <div align="center">
-   <p style="text-align: center;">https://coursera.org/share/4dbd975f3699162e775406f973cf3f6b</p>
-  </div>
- </p>
-</p>
+Open to conversations about technology leadership, Vietnam–Japan partnerships, mobile and IoT products, AI-native solutions, and mentoring.
 
-<p align="center">
- <img width="400px" src="https://dotrinh.com/wp-content/uploads/2023/12/dotrinh.com-dotrinh-coursera-hyjwurnq86hj.jpg" align="center" alt="dotrinh" />
- <p align="center">
-  Project Initiation: Starting a Successful Project:
-  
-  <div align="center">
-   <p style="text-align: center;">https://coursera.org/share/8fcbaf85f4d5c7cafd2ddf17e0fda795</p>
-  </div>
- </p>
-</p>
+[Website](https://dotrinh.com/) · [LinkedIn](https://www.linkedin.com/in/dotr/) · [Email](mailto:contact@dotrinh.com)
 
-# Các cách giữ liên lạc với chúng tôi
-
-Mong muốn được tư vấn hoặc thuê chúng tôi khách hàng có thể liên hệ qua:
-
--   Tìm kiếm trên [Google.com.vn](https://www.google.com.vn/) với từ khóa:  **dotrinh** hoặc **thiet ke top 1**
--   Website chính thức: [dotrinh.com](https://dotrinh.com)
--   Hoặc qua địa chỉ Email: [contact@dotrinh.com](mailto:contact@dotrinh.com)
--   Hoặc qua mạng xã hội Facebook: **[https://fb.com/dotrinhofficial](https://fb.com/dotrinhofficial).**
--   Hoặc qua kênh Youtube: **[dotrinhWORK](https://www.youtube.com/channel/UC7ozfyegIzC6rSLOELHWr7g?sub_confirmation=1)**
-
+[Stack Overflow](https://dotrinh.com/stackoverflow) · [Facebook](https://fb.com/dotrinhcom) · [YouTube · dotrinhWORK](https://www.youtube.com/channel/UC7ozfyegIzC6rSLOELHWr7g?sub_confirmation=1)
