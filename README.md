@@ -24,4 +24,4 @@ Open to conversations about technology leadership, Vietnam–Japan partnerships,
 
 [Website](https://dotrinh.com/) · [LinkedIn](https://www.linkedin.com/in/dotr/) · [Email](mailto:contact@dotrinh.com)
 
-[Stack Overflow](https://dotrinh.com/stackoverflow) · [Facebook](https://fb.com/dotrinhcom) · [YouTube · dotrinhWORK](https://www.youtube.com/channel/UC7ozfyegIzC6rSLOELHWr7g?sub_confirmation=1)
+[Stack Overflow](https://dotrinh.com/stackoverflow) · [Facebook](https://fb.com/dotrinhcom) · [YouTube · dotrinh](https://www.youtube.com/@dotrinh?sub_confirmation=1)
